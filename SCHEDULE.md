@@ -10,4 +10,4 @@
 | April 11 - April 17 | Kinetics - Work - 3 |
 | April 18 - April 24 | Kinetics - Impulse - 1 |
 | April 25 - May 1 | Kinetics - Impulse - 2 |
-| May 2 - May 8 | Kinetics - Impulse 3|
+| May 2 - May 8 | Kinetics - Impulse - 3|
